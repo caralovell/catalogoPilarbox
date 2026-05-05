@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import LogopostLogo from "./LogopostLogo";
-import logo from "@/assets/sono.png";
+import logo from "@/assets/pilar.png";
 
 const fadeUp = (delay: number) => ({
   initial: { opacity: 0, y: 16 },
